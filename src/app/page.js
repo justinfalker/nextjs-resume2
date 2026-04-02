@@ -34,14 +34,14 @@ export default function Home() {
           Projects
         </h2>
         <p className="text-gray-700">
-          Resume website built with Next.js and Tailwind CSS.
+          Resume website built using Next.js and Tailwind CSS.
         </p>
       </section>
 
       
       <section className="border-t border-gray-200 pt-6 mt-6">
         <h2 className="text-xl font-semibold uppercase tracking-wide text-gray-800 mb-2">
-          Summary
+          About Me
         </h2>
         <p className="text-gray-700">
           Business Analytics and Information Systems student with interest in
