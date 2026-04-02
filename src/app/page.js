@@ -1,13 +1,13 @@
 export default function Home() {
   return (
-    <main className="min-h-screen bg-white text-black p-10">
-      <h1 className="text-4xl font-bold mb-4">Justin</h1>
-      <p className="text-lg mb-6">Information Systems Student</p>
+    <main className="min-h-screen bg-gray-100 py-10 px-6">
+      <h1 className="text-4xl font-bold mb-4">Justin Falker</h1>
+      <p className="text-lg mb-6">Business Analytics and Information Systems Student</p>
 
       <section className="mb-6">
         <h2 className="text-2xl font-semibold mb-2">Education</h2>
         <p>University of South Florida</p>
-        <p>Major: Information Systems</p>
+        <p>Major: Business Analytics and Information Systems</p>
       </section>
 
       <section className="mb-6">
