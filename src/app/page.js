@@ -11,7 +11,7 @@ export default function Home() {
           Business Analytics and Information Systems Student
         </p>
         <p className="text-sm text-gray-500">
-          falkerj@usf.edu | Tampa, FL
+          falkerj@usf.edu | St. Petersburg, FL
         </p>
       </header>
 
