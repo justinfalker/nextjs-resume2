@@ -15,11 +15,20 @@ export default function Home() {
         </p>
       </header>
 
-    
       <section className="border-t border-gray-200 pt-6 mt-6">
         <h2 className="text-xl font-semibold uppercase tracking-wide text-gray-800 mb-2">
-          Education
+          Work Experience
         </h2>
+        <p className="text-gray-900">
+          Lowes Home Centers LLC
+        </p>
+      </section>
+
+    
+      <section className="border-t border-gray-200 pt-6 mt-6">
+        <h3 className="text-xl font-semibold uppercase tracking-wide text-gray-800 mb-2">
+          Education
+        </h3>
         <p className="font-medium text-gray-900">
           University of South Florida
         </p>
